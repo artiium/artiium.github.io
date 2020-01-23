@@ -1,11 +1,11 @@
 # Site settings
 author: Artiium Arbyummi
-title: 
+title: Simply Data
 header-img: img/home-bg.png
 email: artiium21@gmail.com
 copyright_name: Artiium Arbyummi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey to Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  artiium
